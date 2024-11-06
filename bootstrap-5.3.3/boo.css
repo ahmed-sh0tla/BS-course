@@ -1,0 +1,51 @@
+#navbarNav{
+    display: flex;
+    justify-content: right;
+}
+
+.navbar-nav{
+    gap: 40px;
+    margin-right: 60px;
+}
+
+section{
+    margin-left: 150px;
+}
+
+.s1{
+    margin-top: 55px;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.s1 p{
+    padding-left: 30px;
+    padding-right: 40px;
+
+}
+
+.s1 button{
+    padding: 5px;
+}
+
+.sec2{
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 80px;
+}
+
+.sec2 img{
+    position: relative;
+    bottom: 15px;
+    width: 60px;
+    padding: 10px;
+}
+
+.seec{
+    display: flex;
+}
+
+
+
